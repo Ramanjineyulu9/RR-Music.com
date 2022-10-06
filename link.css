@@ -1,0 +1,88 @@
+#title {
+	text-align: center;
+	text-transform: captalize;
+}
+#outside {
+	background-color: white;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+#survey-form {
+	background-color: lightblue;
+}
+#number {
+	width: 150px;
+}
+legend {
+	font-family: bold;
+	font-size: 25px;
+}
+form {
+	margin: 0 auto;
+	width: 70%;
+	padding: 10px;
+	border: 1px;
+	border-radius: 3px;
+}
+
+fieldset {
+	border: 2px solid lightgray;
+	margin: 10px;
+}
+legend {
+	font-weight: 700;
+}
+div+div {
+	margin-top: 2px;
+}
+
+
+#name-label {
+	font-size: 20px;
+}
+#name-label-1 {
+	font-size: 20px;
+}
+#name-label-2 {
+	font-size: 20px;
+}
+#birth-label {
+	font-size: 20px;
+}
+#number-label {
+	font-size: 20px;
+}
+#email-label {
+	font-size: 20px;
+}
+#address-label {
+	font-size: 20px;
+	margin: 2px;
+}
+#gender-label {
+	font-size: 20px;
+}
+#e-label {
+	font-size: 20px;
+}
+#t-label {
+	font-size: 20px;
+}
+#c-label {
+	font-size: 20px;
+}
+#l-label {
+	font-size: 20px;
+}
+#signature {
+	font-size: 20px;
+}
+
+
+	
+	
+	
+
+
+
+
